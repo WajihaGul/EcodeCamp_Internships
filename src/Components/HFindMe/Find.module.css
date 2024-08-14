@@ -1,0 +1,26 @@
+.header span{
+    color:#cd8ecd;
+}
+.header h1{
+    font-size: 65px;
+}
+.container{
+    margin-top: 100px;
+    margin-bottom: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.header h2{
+    font-size: 29px;
+}
+.buttons button{
+    border-radius: 21px;
+    height: 45px;
+    width: 48px;
+}
+.bsvg{
+    font-size: 26px;
+}
+

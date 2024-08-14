@@ -1,0 +1,24 @@
+.rowno1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h1 span{
+    color:#cd8ecd;
+}
+.row1svg{
+    font-size: 100px;
+    margin-left: 28px;
+    margin-top: 30px;
+}
+.row1{
+    height: 170px;
+    width: 170px;
+    border-style: groove;
+    border-color: #cd8ecd; 
+}
+h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

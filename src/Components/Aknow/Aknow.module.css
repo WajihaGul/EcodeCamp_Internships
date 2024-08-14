@@ -1,0 +1,19 @@
+.ahead{
+    display: flex;
+    flex-direction: row;
+    margin-top: 70px;
+    margin-bottom: 20px;
+    justify-content: center;
+    align-items: center;
+}
+.atext span{
+    color:#cd8ecd;
+}
+.atext{
+    font-size: large;
+    margin-top: 29px;
+  
+}
+.aimg img{
+    height: 400px;
+}

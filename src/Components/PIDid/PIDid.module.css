@@ -1,0 +1,24 @@
+h1 span{
+    color:purple;
+}
+.prow{
+    display: flex;
+    justify-content: space-evenly;
+    margin-bottom: 25px;
+    margin-top: 25px;
+}
+.card button{
+    background: #730e73;
+    color: white;
+    height: 44px;
+    width: 108px;
+    border-radius: 7px;
+    border: transparent;
+}
+ .card{
+    width: 25rem;
+} 
+.card:hover {
+    transform: scale(1.05); /* Scales the card up by 5% */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Adds a shadow to enhance the effect */
+  }

@@ -1,0 +1,11 @@
+.code{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 65px;
+    margin-bottom: 65px;
+    flex-direction: column;
+}
+h1 span{
+    color:#cd8ecd;
+}

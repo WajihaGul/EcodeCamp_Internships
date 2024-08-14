@@ -1,0 +1,13 @@
+.container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.buttons button{
+    border-radius: 21px;
+    height: 45px;
+    width: 48px;
+}
+.bsvg{
+    font-size: 26px;
+}
